@@ -1,1 +1,2 @@
 .env # Make sure .env is ignored
+.env
